@@ -6,4 +6,4 @@
 </p>
 
 ## Design
-- [Ricardo Schiniegoski]([https://dribbble.com/](https://www.figma.com/@ricardohs)) for his [Pokedex App design]([https://dribbble.com/shots/6545819-Pokedex-App](https://www.figma.com/community/file/979132880663340794/Pok%C3%A9dex)https://www.figma.com/community/file/979132880663340794/Pok%C3%A9dex)
+- [Ricardo Schiniegoski](https://www.figma.com/@ricardohs) for his [Pokedex App design](https://www.figma.com/community/file/979132880663340794/Pok%C3%A9dex)
